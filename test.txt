@@ -1,3 +1,2 @@
 trigger build
 auto trigger test
-xyz trigger test
