@@ -1,1 +1,2 @@
 trigger build
+auto trigger test
